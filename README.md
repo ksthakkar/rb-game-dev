@@ -1,4 +1,4 @@
-##RBHS Game Development Club Website
+## RBHS Game Development Club Website
 
 Currently in Dev Mode
 
