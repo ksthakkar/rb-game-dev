@@ -28,6 +28,8 @@ function App() {
           <SocialIcon url="https://github.com/ksthakkar/rb-game-dev"  className="badge" target="_blank" rel="noopener noreferrer" />&nbsp;
           <SocialIcon url="mailto:ksthakkar52@gmail.com" target="_blank"  className="badge"rel="noopener noreferrer" />&nbsp;
           <SocialIcon url="https://www.instagram.com/rbhs.gamedev/"   className="badge" target="_blank" rel="noopener noreferrer" />&nbsp;
+          <SocialIcon url="https://discord.gg/xN5NUtQb"   className="badge" target="_blank" rel="noopener noreferrer" />&nbsp;
+          
 
         </p>
 
